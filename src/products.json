@@ -1,0 +1,18 @@
+[
+    {
+        "mainImage": "/image-product-1.jpg",
+        "trumbnail": "/image-product-1-thumbnail.jpg"
+    },
+    {
+        "mainImage": "/image-product-2.jpg",
+        "trumbnail": "/image-product-2-thumbnail.jpg"
+    },
+    {
+        "mainImage": "/image-product-3.jpg",
+        "trumbnail": "/image-product-3-thumbnail.jpg"
+    },
+    {
+        "mainImage": "/image-product-4.jpg",
+        "trumbnail": "/image-product-4-thumbnail.jpg"
+    }
+]
